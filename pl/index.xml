@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mój Blog</title>
+    <link>https://dzbart.github.io/pl/</link>
+    <description>Recent content on Mój Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://dzbart.github.io/pl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://dzbart.github.io/pl/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dzbart.github.io/pl/archives/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Kontakt</title>
+      <link>https://dzbart.github.io/pl/contact/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dzbart.github.io/pl/contact/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>نموذج عربي</title>
+      <link>https://dzbart.github.io/pl/post/arabic_example/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dzbart.github.io/pl/post/arabic_example/</guid>
+      
+        <description>من مولد النص العربى، حيث يمكنك أن تولد مثل هذا النص أو العديد من النصوص الأخرى إضافة إلى زيادة عدد الحروف التى يولدها التطبيق.</description>
+      
+    </item>
+    
+    <item>
+      <title>O mnie</title>
+      <link>https://dzbart.github.io/pl/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dzbart.github.io/pl/about/</guid>
+      
+        <description>Uzupelnic</description>
+      
+    </item>
+    
+  </channel>
+</rss>
