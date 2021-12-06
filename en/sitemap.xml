@@ -136,12 +136,42 @@
   </url><url>
     <loc>https://reusedmodule.github.io/tags/privacy/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://reusedmodule.github.io/pl/tags/privacy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://reusedmodule.github.io/tags/privacy/"
+                />
   </url><url>
     <loc>https://reusedmodule.github.io/post/rich-content/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://reusedmodule.github.io/pl/post/rich-content/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://reusedmodule.github.io/post/rich-content/"
+                />
   </url><url>
     <loc>https://reusedmodule.github.io/tags/shortcodes/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://reusedmodule.github.io/pl/tags/shortcodes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://reusedmodule.github.io/tags/shortcodes/"
+                />
   </url><url>
     <loc>https://reusedmodule.github.io/post/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>

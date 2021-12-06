@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Go on Mój Blog</title>
+    <link>https://reusedmodule.github.io/pl/tags/go/</link>
+    <description>Recent content in Go on Mój Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://reusedmodule.github.io/pl/tags/go/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>asddsasa</title>
+      <link>https://reusedmodule.github.io/pl/post/arabic_example/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://reusedmodule.github.io/pl/post/arabic_example/</guid>
+      
+        <description>Dla wielu aplikacji dostęp do informacji z internetu jest równie ważny jak dostęp do lokalnego systemu plików. Język Go zapewnia kolekcję pakietów zgrupowanych pod nazwą net, ułatwiają- cych wysyłanie i odbieranie informacji za pośrednictwem internetu, wykonywanie niskopoziomowych połączeń sieciowych oraz konfigurowanie serwerów, dla których funkcje współbieżno- ści Go (wprowadzone w rozdziale 8.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
