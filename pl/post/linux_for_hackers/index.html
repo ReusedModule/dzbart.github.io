@@ -1,0 +1,604 @@
+<!DOCTYPE html>
+<html
+  dir="ltr"
+  lang="pl"
+  data-theme=""
+><head>
+  <title>
+    Bart
+      |
+      Linux For Hackers
+
+
+    
+
+  </title>
+
+  
+  <meta charset="utf-8" /><meta name="generator" content="Hugo 0.89.4" /><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
+  <meta
+    name="description"
+    content="
+      Linux for ethical hackers
+
+
+    "
+  />
+  
+  
+  
+  <link
+    rel="stylesheet"
+    href="/css/main.min.beb4ded4d3d7b57eaaf7abaedb95860a68a8e8c2320b688e547ba30ead224a19.css"
+    integrity="sha256-vrTe1NPXtX6q96uu25WGCmio6MIyC2iOVHujDq0iShk="
+    crossorigin="anonymous"
+    type="text/css"
+  />
+  
+  
+  <link
+    rel="stylesheet"
+    href="/css/markupHighlight.min.058b31f17db60602cc415fd63b0427e7932fbf35c70d8e341a4c39385f5f6f3e.css"
+    integrity="sha256-BYsx8X22BgLMQV/WOwQn55MvvzXHDY40Gkw5OF9fbz4="
+    crossorigin="anonymous"
+    type="text/css"
+  />
+  
+  <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css"
+    integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA=="
+    crossorigin="anonymous"
+  />
+  
+    
+    
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Indie&#43;Flower&amp;family=Roboto:ital,wght@0,100;0,400;0,700;1,400&amp;display=swap" rel="stylesheet" />
+  <link rel="shortcut icon" href="/favicons/favicon.ico" type="image/x-icon" />
+  <link rel="apple-touch-icon" sizes="180x180" href="/favicons/apple-touch-icon.png" />
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicons/favicon-32x32.png" />
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicons/favicon-16x16.png" />
+
+  <link rel="canonical" href="/pl/post/linux_for_hackers/" />
+
+  
+  
+  
+  
+  <script
+    type="text/javascript"
+    src="/js/anatole-header.min.2a2cd9614b7d007dfbb75e8da19e3a0fa872ceab53c6d000c00b7a0c89b85bfc.js"
+    integrity="sha256-KizZYUt9AH37t16NoZ46D6hyzqtTxtAAwAt6DIm4W/w="
+    crossorigin="anonymous"
+  ></script>
+
+  
+    
+    
+    <script
+      type="text/javascript"
+      src="/js/anatole-theme-switcher.min.7fd87181cdd7e8413aa64b6867bb32f3a8dc242e684fc7d5bbb9f600dbc2b6eb.js"
+      integrity="sha256-f9hxgc3X6EE6pktoZ7sy86jcJC5oT8fVu7n2ANvCtus="
+      crossorigin="anonymous"
+    ></script>
+
+  
+  <meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="https://reusedmodule.github.io/static/images/site-feature-image.png"/>
+
+<meta name="twitter:title" content="Linux For Hackers"/>
+<meta name="twitter:description" content="Linux for ethical hackers"/>
+
+
+
+  <meta property="og:title" content="Linux For Hackers" />
+<meta property="og:description" content="Linux for ethical hackers" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://reusedmodule.github.io/pl/post/linux_for_hackers/" /><meta property="og:image" content="https://reusedmodule.github.io/static/images/site-feature-image.png"/><meta property="article:section" content="post" />
+<meta property="article:published_time" content="2021-12-07T00:00:00+00:00" />
+<meta property="article:modified_time" content="2021-12-07T00:00:00+00:00" /><meta property="og:site_name" content="Mój Blog" />
+
+
+
+
+
+  
+  
+  
+  
+  <script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "BlogPosting",
+        "articleSection": "post",
+        "name": "Linux For Hackers",
+        "headline": "Linux For Hackers",
+        "alternativeHeadline": "",
+        "description": "
+      Linux for ethical hackers
+
+
+    ",
+        "inLanguage": "en",
+        "isFamilyFriendly": "true",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https:\/\/reusedmodule.github.io\/pl\/post\/linux_for_hackers\/"
+        },
+        "author" : {
+            "@type": "Person",
+            "name": "Bart"
+        },
+        "creator" : {
+            "@type": "Person",
+            "name": "Bart"
+        },
+        "accountablePerson" : {
+            "@type": "Person",
+            "name": "Bart"
+        },
+        "copyrightHolder" : {
+            "@type": "Person",
+            "name": "Bart"
+        },
+        "copyrightYear" : "2021",
+        "dateCreated": "2021-12-07T00:00:00.00Z",
+        "datePublished": "2021-12-07T00:00:00.00Z",
+        "dateModified": "2021-12-07T00:00:00.00Z",
+        "publisher":{
+            "@type":"Organization",
+            "name": "Bart",
+            "url": "https://reusedmodule.github.io",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https:\/\/reusedmodule.github.io\/favicons\/favicon-32x32.png",
+                "width":"32",
+                "height":"32"
+            }
+        },
+        "image": 
+      [
+        
+        "https://reusedmodule.github.io/static/images/site-feature-image.png"
+
+
+      
+      ]
+
+    ,
+        "url" : "https:\/\/reusedmodule.github.io\/pl\/post\/linux_for_hackers\/",
+        "wordCount" : "1549",
+        "genre" : [ 
+      
+      "Linux"
+
+    ],
+        "keywords" : [ 
+      
+      "ethical hacking"
+
+    
+      
+        ,
+
+      
+      "basics"
+
+    
+      
+        ,
+
+      
+      "bash"
+
+    ]
+    }
+  </script>
+
+
+
+</head>
+<body>
+    <header><div
+  class="page-top 
+    .
+
+  "
+>
+  <a role="button" class="navbar-burger" data-target="navMenu" aria-label="menu" aria-expanded="false">
+    <span aria-hidden="true"></span>
+    <span aria-hidden="true"></span>
+    <span aria-hidden="true"></span>
+  </a>
+  <nav>
+    <ul class="nav__list" id="navMenu">
+      <div class="nav__links">
+        
+        
+          
+          <li>
+            <a
+              
+              href="/"
+              
+              title=""
+              >Home</a
+            >
+          </li>
+
+        
+          
+          <li>
+            <a
+              
+              href="/post/"
+              
+              title=""
+              >Posty</a
+            >
+          </li>
+
+        
+          
+          <li>
+            <a
+              
+              href="/about/"
+              
+              title=""
+              >O mnie</a
+            >
+          </li>
+
+        
+          
+          <li>
+            <a
+              
+              href="/contact/"
+              
+              title=""
+              >Kontakt</a
+            >
+          </li>
+
+        
+      </div>
+      <ul>
+        
+          <li>
+            <ul class="sl-nav" aria-label="Language switcher">
+              <li>
+                <input type="checkbox" id="languagepicker" aria-label="switch language" hidden />
+                <label for="languagepicker"><a>PL</a></label>
+                <label for="languagepicker"><i class="fa fa-angle-down" aria-hidden="true"></i></label>
+                <div class="triangle"></div>
+
+                <ul class="dropdown">
+                  
+
+                    <li>
+                      <a href="/post/linux_for_hackers/" title="EN"
+                        ><span
+                          
+                          aria-label="EN"
+                          >EN</span
+                        ></a
+                      >
+                    </li>
+
+                  
+                </ul>
+              </li>
+            </ul>
+          </li>
+
+        
+        
+          <li>
+            <a class="theme-switch" title="Switch Theme">
+              <i class="fas fa-adjust fa-fw" aria-hidden="true"></i>
+            </a>
+          </li>
+
+        
+      </ul>
+    </ul>
+  </nav>
+</div>
+</header>
+    <div class="wrapper">
+      <aside><div
+  class="sidebar
+    .
+
+  "
+>
+  <div class="sidebar__content">
+    <div class="logo-title">
+      <div class="title">
+        <img src="/images/profile.jpg" alt="profile picture" />
+        <h3 title=""><a href="/pl">Mój Blog</a></h3>
+        <div class="description">
+          <p>Python, Go, Linux oraz Ethical Hacking</p>
+        </div>
+      </div>
+    </div>
+    <ul class="social-links">
+      
+        <li>
+          <a href="https://github.com/dzbart" rel="me" aria-label="GitHub" title="GitHub">
+            <i class="fab fa-github fa-2x" aria-hidden="true"></i>
+          </a>
+        </li>
+
+      
+        <li>
+          <a href="mailto:bart@dzbart.com" rel="me" aria-label="e-mail" title="e-mail">
+            <i class="fas fa-envelope fa-2x" aria-hidden="true"></i>
+          </a>
+        </li>
+
+      
+    </ul>
+  </div><footer class="footer footer--sidebar">
+  <div class="by_farbox">
+    <ul class="footer__list">
+      <li class="footer__item">
+        &copy;
+        
+          Bart
+          2021
+
+
+        
+      </li>
+      
+        <li class="footer__item">
+          <a
+            href="/imprint/"
+            
+            title=""
+          >
+            imprint
+          </a>
+        </li>
+
+      
+    </ul>
+  </div>
+</footer>
+  
+  <script
+    type="text/javascript"
+    src="/js/medium-zoom.min.71100d84fab0ad794b8399a66ac810700cc78d703f715dc10af4d7ba7b761362.js"
+    integrity="sha256-cRANhPqwrXlLg5mmasgQcAzHjXA/cV3BCvTXunt2E2I="
+    crossorigin="anonymous"
+  ></script>
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'G-FFW5EPWDG7', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+</div>
+</aside>
+      <main>
+        <div class="autopagerize_page_element">
+          <div class="content">
+  <div
+    class="post 
+      .
+
+    "
+  >
+    <div class="post-content">
+      
+      <div class="post-title">
+        <h1>Linux For Hackers</h1>
+        
+          <div class="info">
+            <em class="fas fa-calendar-day"></em>
+            <span class="date"
+              >
+                7/12/2021
+
+
+              </span
+            >
+            <em class="fas fa-stopwatch"></em>
+            <span class="reading-time">8-minute read</span>
+          </div>
+
+        
+      </div><p>Why is Linux good for ethical hackers?</p>
+<p>The concept of Linux for ethical hackers focuses on the use of the Linux operating system for the sole purpose of ethical hacking. There are a couple of skills that hackers must equip themselves with as they approach hacking using Linux, because a good number of devices that they will be hacking into will be Linux devices and a large percentage of tools in existence today are Linux-based.</p>
+<p>There are a number of reasons that hackers will need to use Linux. We’ll look at some of these next.</p>
+<h2 id="why-do-hackers-use-linux">Why do hackers use Linux?</h2>
+<p>In order to familiarize yourself with the full range of ethical hacking tools, it is important to be conversant with the Linux OS. As the systems engineer Yasser Ibrahim said in a post on Quora: “In Linux you need to understand from the basics to the advanced, learn the console commands and how to navigate and do everything from your console, also shell programming (not a must, but always preferable), know what a kernel is and how it works, understand the Linux file systems, how to network on Linux.”</p>
+<p>Hackers will want to utilize Linux for hacking for a wide number of reasons. These include the following:</p>
+<h3 id="linux-is-open-source">Linux is open-source</h3>
+<p>The ability to manipulate Linux source code to your liking is one of the reasons why security enthusiasts opt for this over Windows. This is especially worth remembering today, where privacy concerns with major corporations is a concern.</p>
+<h3 id="linux-is-transparent">Linux is transparent</h3>
+<p>We are able to understand the inner workings of Linux because we have access to its entire code. We can manipulate how each component of the operating system works. This is something that operating systems such as Windows don’t allow for.</p>
+<h3 id="linux-offers-granular-control">Linux offers granular control</h3>
+<p>Linux allows us to quickly and easily program certain aspects of the OS, using scripting languages such as BASH or even Python. Windows, on the other hand, hinders you from accessing certain parts of the OS.</p>
+<h3 id="most-hacking-tools-are-built-for-linux">Most hacking tools are built for Linux</h3>
+<p>A good percentage of hacking tools are written for Linux. This is because using scripting languages such as BASH and lightweight languages such as Python makes it easy to write minimal code that accomplishes a lot. Today, over 90% of hacking tools available are written for Linux.</p>
+<h3 id="the-future-is-in-linux">The future is in Linux</h3>
+<p>As technology advances, embedded systems are relying on the Linux kernel due to its efficiency and light weight. More and more devices are getting connected to the internet by the day, and people are embracing the Internet of Things. These devices rely on Linux and require being secured on the internet.</p>
+<p>The reasons above have attracted most of the security industry to rely on Linux for ethical hacking. So now that we know why Linux is the most favored, why don’t we see how we can be able to run it on our own?</p>
+<h2 id="how-can-one-run-linux-for-ethical-hacking">How can one run Linux for ethical hacking?</h2>
+<p>Linux can be installed and run from your computer or within a virtual machine environment such as VirtualBox. There are a few ethical hacking Linux distributions that you can choose to run. The most common include:</p>
+<ol>
+<li><a href="https://www.kali.org/">Kali Linux</a>: This is the most popular hacking OS. It is Debian-based and is maintained by Offensive Security. It includes numerous hacking tools, making it the most desirable hacking OS</li>
+<li><a href="https://www.blackarch.org/">Black Arch</a>: This is an Arch Linux-based hacking OS with over 2,300 hacking tools incorporated within it. Even though it has more tools than Kali, it is a relatively new project and thus less popular at the moment. This also means that it is less stable compared to Kali</li>
+<li><a href="https://parrotlinux.org/">Parrot OS</a>: This is another Debian-based hacking OS. It has hacking tools for a wide variety of security projects, from pentesting to digital forensics</li>
+<li><a href="https://santoku-linux.com/">Santoku Linux</a>: Santoku Linux is a mobile security-based Linux distribution, with tools specific to mobile security</li>
+<li><a href="https://www.backbox.org/">BackBox Linux</a>: This is a Debian-based Linux distribution that focuses on being incredibly lightweight</li>
+</ol>
+<p>Of the distributions above, the most commonly used one is Kali Linux. This is what we shall be using in this article. You can access the Kali documentation here to learn more about it, and there’s a detailed guide on how to install Kali Linux on VirtualBox here.</p>
+<p>It is advisable that you first begin by installing Kali Linux on VirtualBox and learning how to use it there before you are confident enough to make it your daily driver. As engineer Sylvain Leroux advises on It’s FOSS:  “Some commands may be potentially harmful to your home network. In addition, by not understanding the implications of what you are doing, you may put yourself in a difficult situation by using those tools at your work, school or on public networks. And in that case, ignorance will not be an excuse.”</p>
+<h2 id="what-are-some-basic-commands-in-linux">What are some basic commands in Linux?</h2>
+<p>There are some basic commands that you should be conversant with as you grow in your understanding of Linux. Since we are discussing Kali Linux in this article, we shall focus on the Debian-based packages and commands. We decided to distinguish between the different commands and place them according to the categories discussed below.</p>
+<ul>
+<li>
+<p>Managing the file system: The Linux file system includes files and folders that comprise the system. You can navigate this file system using the Linux terminal as opposed to the GUI. Managing the system through the terminal allows you to quickly and powerfully interact with the system. The following are some of the commands that could be used within this category:</p>
+<ul>
+<li><strong>pwd</strong>: This command shows you where you are currently working from within the system</li>
+<li><strong>ls</strong>: This command shows you the contents of the current directory</li>
+<li><strong>whereis</strong>: This command can be used to locate installed binaries within the system</li>
+<li><strong>locate</strong>: This command is used to find files within the system</li>
+<li><strong>find</strong>: This command allows you to find files within the system in a more granular manner</li>
+<li><strong>rm</strong>: This command allows you to rename or remove files and directories within the system</li>
+<li><strong>cp</strong>: This command allows you to copy files and directories from one location to another within the system</li>
+</ul>
+</li>
+<li>
+<p>Managing files within the system: It is possible to manage input and output from files within the Linux system. The following commands and programs can be used:</p>
+<ul>
+<li><strong>cat</strong>: This command outputs the contents of a file. It can also be used to feed the contents of a file into another file by combining it with the &gt; operator</li>
+<li><strong>head</strong>: This command outputs the contents of a file from the beginning, giving output to the first 10 lines only</li>
+<li><strong>tail</strong>: This command outputs the contents of a file from the bottom, giving output of the last 10 lines of the file</li>
+<li><strong>grep</strong>: This command can be used to filter the contents of a file to match a particular regex</li>
+<li><strong>nano</strong>: This program can be used to edit file contents. It is one of the available text editors operating from the Linux terminal</li>
+<li><strong>vi</strong>: This program can be used to edit file contents. It is one of the available text editors operating from the Linux terminal</li>
+</ul>
+</li>
+<li>
+<p>Adding and removing software: The Linux OS allows you to manage software using the terminal. This is in contrast to the Windows OS, which relies on installation binary packages. Even though there are also installation packages in Linux, the following are the main ways that software can be managed:</p>
+<ul>
+<li><strong>APT package manager</strong>: The APT package manager uses the program apt-get to install, remove, reconfigure and fix broken packages within the Linux system</li>
+<li><strong>Aptitude package manager</strong>: The aptitude package manager uses the program aptitude to manage (install and remove) software</li>
+<li><strong>DPKG package manager</strong>: This software manager uses the program dpkg to manage software packages within the Linux system</li>
+</ul>
+</li>
+<li>
+<p>Managing the network: Managing the network is an important skill that can involve multiple tools and programs which beginners in ethical hacking should master. Some of these commands are listed below:</p>
+<ul>
+<li><strong>ifconfig and iwconfig</strong>: These commands can be used to bring up or take down the network interfaces — ifconfig for the Ethernet interface and iwconfig for the wireless interface</li>
+<li><strong>tcpdump</strong>: This command can be used to analyze network traffic for various purposes and to capture network traffic into a file that can later on be thoroughly analyzed for specific traffic</li>
+</ul>
+</li>
+<li>
+<p>Controlling file and directory permissions: One of the most important skills for hackers is to be able to control access to files and directories. This can be a deep topic, so we have decided to include this introductory piece on Linux file and directory permissions. The following commands can be used to manage permissions within Linux:</p>
+<ul>
+<li><strong>chown</strong>: This command can be used to change the ownership of files and directories from one user to another</li>
+<li><strong>chgrp</strong>: This command is used to change the ownership of files and directories from one group to another</li>
+<li><strong>chmod</strong>: This command can be used to change the general permissions of a file or directory</li>
+</ul>
+</li>
+</ul>
+<p>It is also important for beginner hackers to understand how to manage running processes, manage user environment variables, manage and discover wireless networks, go anonymous using proxies, VPNs and TOR, write basic scripts and understand the Linux logging system. However, these are skills that beginners will have to cumulatively acquire as they advance their understanding of Linux.</p>
+
+
+<h3>Posts in this Series</h3>
+<ul>
+  
+    <li><a href="/pl/post/linux_for_hackers/">Linux For Hackers</a></li>
+
+  
+</ul>
+</div>
+    <div class="post-footer">
+      <div class="info">
+        
+          <span class="separator"><a class="category" href="/pl/categories/linux/">Linux</a></span>
+
+
+
+
+        
+
+        
+          <span class="separator"><a class="tag" href="/pl/tags/ethical-hacking/">ethical hacking</a><a class="tag" href="/pl/tags/basics/">basics</a><a class="tag" href="/pl/tags/bash/">bash</a></span>
+
+
+
+
+        
+      </div>
+    </div>
+
+    <div id="fb_comments_container">
+          <h2>comments</h2>
+          <div id="disqus_thread"></div>
+<script type="application/javascript">
+    var disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "dzBartek" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+        </div>
+  </div>
+
+
+          </div>
+        </div>
+      </main>
+    </div><footer class="footer footer--base">
+  <div class="by_farbox">
+    <ul class="footer__list">
+      <li class="footer__item">
+        &copy;
+        
+          Bart
+          2021
+
+
+        
+      </li>
+      
+        <li class="footer__item">
+          <a
+            href="/imprint/"
+            
+            title=""
+          >
+            imprint
+          </a>
+        </li>
+
+      
+    </ul>
+  </div>
+</footer>
+  
+  <script
+    type="text/javascript"
+    src="/js/medium-zoom.min.71100d84fab0ad794b8399a66ac810700cc78d703f715dc10af4d7ba7b761362.js"
+    integrity="sha256-cRANhPqwrXlLg5mmasgQcAzHjXA/cV3BCvTXunt2E2I="
+    crossorigin="anonymous"
+  ></script>
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'G-FFW5EPWDG7', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+</body>
+</html>
