@@ -2,50 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Mój Blog</title>
-    <link>https://reusedmodule.github.io/pl/tags/</link>
+    <link>https://bartdz.com/pl/tags/</link>
     <description>Recent content in Tags on Mój Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 08 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://reusedmodule.github.io/pl/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://bartdz.com/pl/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>bash</title>
-      <link>https://reusedmodule.github.io/pl/tags/bash/</link>
-      <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
+      <link>https://bartdz.com/pl/tags/bash/</link>
+      <pubDate>Tue, 07 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://reusedmodule.github.io/pl/tags/bash/</guid>
-      
-        <description></description>
-      
-    </item>
-    
-    <item>
-      <title>firewall</title>
-      <link>https://reusedmodule.github.io/pl/tags/firewall/</link>
-      <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://reusedmodule.github.io/pl/tags/firewall/</guid>
-      
-        <description></description>
-      
-    </item>
-    
-    <item>
-      <title>iptables</title>
-      <link>https://reusedmodule.github.io/pl/tags/iptables/</link>
-      <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://reusedmodule.github.io/pl/tags/iptables/</guid>
-      
-        <description></description>
-      
-    </item>
-    
-    <item>
-      <title>podstawy</title>
-      <link>https://reusedmodule.github.io/pl/tags/podstawy/</link>
-      <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://reusedmodule.github.io/pl/tags/podstawy/</guid>
+      <guid>https://bartdz.com/pl/tags/bash/</guid>
       
         <description></description>
       
@@ -53,10 +20,10 @@
     
     <item>
       <title>basics</title>
-      <link>https://reusedmodule.github.io/pl/tags/basics/</link>
+      <link>https://bartdz.com/pl/tags/basics/</link>
       <pubDate>Tue, 07 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://reusedmodule.github.io/pl/tags/basics/</guid>
+      <guid>https://bartdz.com/pl/tags/basics/</guid>
       
         <description></description>
       
@@ -64,10 +31,43 @@
     
     <item>
       <title>ethical hacking</title>
-      <link>https://reusedmodule.github.io/pl/tags/ethical-hacking/</link>
+      <link>https://bartdz.com/pl/tags/ethical-hacking/</link>
       <pubDate>Tue, 07 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://reusedmodule.github.io/pl/tags/ethical-hacking/</guid>
+      <guid>https://bartdz.com/pl/tags/ethical-hacking/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>firewall</title>
+      <link>https://bartdz.com/pl/tags/firewall/</link>
+      <pubDate>Tue, 07 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bartdz.com/pl/tags/firewall/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>iptables</title>
+      <link>https://bartdz.com/pl/tags/iptables/</link>
+      <pubDate>Tue, 07 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bartdz.com/pl/tags/iptables/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>podstawy</title>
+      <link>https://bartdz.com/pl/tags/podstawy/</link>
+      <pubDate>Tue, 07 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bartdz.com/pl/tags/podstawy/</guid>
       
         <description></description>
       
@@ -75,10 +75,10 @@
     
     <item>
       <title>privacy</title>
-      <link>https://reusedmodule.github.io/pl/tags/privacy/</link>
+      <link>https://bartdz.com/pl/tags/privacy/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://reusedmodule.github.io/pl/tags/privacy/</guid>
+      <guid>https://bartdz.com/pl/tags/privacy/</guid>
       
         <description></description>
       
@@ -86,10 +86,10 @@
     
     <item>
       <title>shortcodes</title>
-      <link>https://reusedmodule.github.io/pl/tags/shortcodes/</link>
+      <link>https://bartdz.com/pl/tags/shortcodes/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://reusedmodule.github.io/pl/tags/shortcodes/</guid>
+      <guid>https://bartdz.com/pl/tags/shortcodes/</guid>
       
         <description></description>
       
@@ -97,10 +97,10 @@
     
     <item>
       <title>Go</title>
-      <link>https://reusedmodule.github.io/pl/tags/go/</link>
+      <link>https://bartdz.com/pl/tags/go/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://reusedmodule.github.io/pl/tags/go/</guid>
+      <guid>https://bartdz.com/pl/tags/go/</guid>
       
         <description></description>
       
@@ -108,10 +108,10 @@
     
     <item>
       <title>Python</title>
-      <link>https://reusedmodule.github.io/pl/tags/python/</link>
+      <link>https://bartdz.com/pl/tags/python/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://reusedmodule.github.io/pl/tags/python/</guid>
+      <guid>https://bartdz.com/pl/tags/python/</guid>
       
         <description></description>
       
@@ -119,10 +119,10 @@
     
     <item>
       <title>index</title>
-      <link>https://reusedmodule.github.io/pl/tags/index/</link>
+      <link>https://bartdz.com/pl/tags/index/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://reusedmodule.github.io/pl/tags/index/</guid>
+      <guid>https://bartdz.com/pl/tags/index/</guid>
       
         <description></description>
       

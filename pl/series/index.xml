@@ -2,28 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Mój Blog</title>
-    <link>https://reusedmodule.github.io/pl/series/</link>
+    <link>https://bartdz.com/pl/series/</link>
     <description>Recent content in Series on Mój Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 08 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://reusedmodule.github.io/pl/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://bartdz.com/pl/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Zabezpieczanie Linuxa</title>
-      <link>https://reusedmodule.github.io/pl/series/zabezpieczanie-linuxa/</link>
-      <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
+      <title>Introduction To Ethical Hacking</title>
+      <link>https://bartdz.com/pl/series/introduction-to-ethical-hacking/</link>
+      <pubDate>Tue, 07 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://reusedmodule.github.io/pl/series/zabezpieczanie-linuxa/</guid>
+      <guid>https://bartdz.com/pl/series/introduction-to-ethical-hacking/</guid>
       
         <description></description>
       
     </item>
     
     <item>
-      <title>Introduction To Ethical Hacking</title>
-      <link>https://reusedmodule.github.io/pl/series/introduction-to-ethical-hacking/</link>
+      <title>Zabezpieczanie Linuxa</title>
+      <link>https://bartdz.com/pl/series/zabezpieczanie-linuxa/</link>
       <pubDate>Tue, 07 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://reusedmodule.github.io/pl/series/introduction-to-ethical-hacking/</guid>
+      <guid>https://bartdz.com/pl/series/zabezpieczanie-linuxa/</guid>
       
         <description></description>
       
