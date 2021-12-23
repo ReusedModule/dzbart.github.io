@@ -2,315 +2,315 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://bartdz.com/</loc>
+    <loc>//bartdz.com/</loc>
     <lastmod>2021-12-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://bartdz.com/pl/"
+                href="//bartdz.com/pl/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://bartdz.com/"
+                href="//bartdz.com/"
                 />
   </url><url>
-    <loc>https://bartdz.com/tags/bash/</loc>
+    <loc>//bartdz.com/tags/bash/</loc>
     <lastmod>2021-12-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://bartdz.com/pl/tags/bash/"
+                href="//bartdz.com/pl/tags/bash/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://bartdz.com/tags/bash/"
+                href="//bartdz.com/tags/bash/"
                 />
   </url><url>
-    <loc>https://bartdz.com/tags/basics/</loc>
+    <loc>//bartdz.com/tags/basics/</loc>
     <lastmod>2021-12-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://bartdz.com/pl/tags/basics/"
+                href="//bartdz.com/pl/tags/basics/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://bartdz.com/tags/basics/"
+                href="//bartdz.com/tags/basics/"
                 />
   </url><url>
-    <loc>https://bartdz.com/categories/</loc>
+    <loc>//bartdz.com/categories/</loc>
     <lastmod>2021-12-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://bartdz.com/pl/categories/"
+                href="//bartdz.com/pl/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://bartdz.com/categories/"
+                href="//bartdz.com/categories/"
                 />
   </url><url>
-    <loc>https://bartdz.com/tags/ethical-hacking/</loc>
+    <loc>//bartdz.com/tags/ethical-hacking/</loc>
     <lastmod>2021-12-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://bartdz.com/pl/tags/ethical-hacking/"
+                href="//bartdz.com/pl/tags/ethical-hacking/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://bartdz.com/tags/ethical-hacking/"
+                href="//bartdz.com/tags/ethical-hacking/"
                 />
   </url><url>
-    <loc>https://bartdz.com/series/introduction-to-ethical-hacking/</loc>
+    <loc>//bartdz.com/series/introduction-to-ethical-hacking/</loc>
     <lastmod>2021-12-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://bartdz.com/pl/series/introduction-to-ethical-hacking/"
+                href="//bartdz.com/pl/series/introduction-to-ethical-hacking/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://bartdz.com/series/introduction-to-ethical-hacking/"
+                href="//bartdz.com/series/introduction-to-ethical-hacking/"
                 />
   </url><url>
-    <loc>https://bartdz.com/categories/linux/</loc>
+    <loc>//bartdz.com/categories/linux/</loc>
     <lastmod>2021-12-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://bartdz.com/pl/categories/linux/"
+                href="//bartdz.com/pl/categories/linux/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://bartdz.com/categories/linux/"
+                href="//bartdz.com/categories/linux/"
                 />
   </url><url>
-    <loc>https://bartdz.com/post/linux_for_hackers/</loc>
+    <loc>//bartdz.com/post/linux_for_hackers/</loc>
     <lastmod>2021-12-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://bartdz.com/pl/post/linux_for_hackers/"
+                href="//bartdz.com/pl/post/linux_for_hackers/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://bartdz.com/post/linux_for_hackers/"
+                href="//bartdz.com/post/linux_for_hackers/"
                 />
   </url><url>
-    <loc>https://bartdz.com/post/</loc>
+    <loc>//bartdz.com/post/</loc>
     <lastmod>2021-12-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://bartdz.com/pl/post/"
+                href="//bartdz.com/pl/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://bartdz.com/post/"
+                href="//bartdz.com/post/"
                 />
   </url><url>
-    <loc>https://bartdz.com/series/</loc>
+    <loc>//bartdz.com/series/</loc>
     <lastmod>2021-12-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://bartdz.com/pl/series/"
+                href="//bartdz.com/pl/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://bartdz.com/series/"
+                href="//bartdz.com/series/"
                 />
   </url><url>
-    <loc>https://bartdz.com/tags/</loc>
+    <loc>//bartdz.com/tags/</loc>
     <lastmod>2021-12-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://bartdz.com/pl/tags/"
+                href="//bartdz.com/pl/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://bartdz.com/tags/"
+                href="//bartdz.com/tags/"
                 />
   </url><url>
-    <loc>https://bartdz.com/post/series-part-1/</loc>
+    <loc>//bartdz.com/post/series-part-1/</loc>
     <lastmod>2021-08-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://bartdz.com/series/series-setup/</loc>
+    <loc>//bartdz.com/series/series-setup/</loc>
     <lastmod>2021-08-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://bartdz.com/post/redirect/</loc>
+    <loc>//bartdz.com/post/redirect/</loc>
     <lastmod>2021-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://bartdz.com/tags/redirect/</loc>
+    <loc>//bartdz.com/tags/redirect/</loc>
     <lastmod>2021-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://bartdz.com/tags/redirecturl/</loc>
+    <loc>//bartdz.com/tags/redirecturl/</loc>
     <lastmod>2021-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://bartdz.com/tags/demo/</loc>
+    <loc>//bartdz.com/tags/demo/</loc>
     <lastmod>2021-03-13T21:47:41+00:00</lastmod>
   </url><url>
-    <loc>https://bartdz.com/tags/shortcode/</loc>
+    <loc>//bartdz.com/tags/shortcode/</loc>
     <lastmod>2021-03-13T21:47:41+00:00</lastmod>
   </url><url>
-    <loc>https://bartdz.com/post/figure-shortcode/</loc>
+    <loc>//bartdz.com/post/figure-shortcode/</loc>
     <lastmod>2021-03-13T21:47:41+00:00</lastmod>
   </url><url>
-    <loc>https://bartdz.com/post/series-part-2/</loc>
+    <loc>//bartdz.com/post/series-part-2/</loc>
     <lastmod>2020-08-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://bartdz.com/tags/go-hacking/</loc>
+    <loc>//bartdz.com/tags/go-hacking/</loc>
     <lastmod>2020-08-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://bartdz.com/categories/progamming/</loc>
+    <loc>//bartdz.com/categories/progamming/</loc>
     <lastmod>2020-08-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://bartdz.com/archives/</loc>
+    <loc>//bartdz.com/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://bartdz.com/pl/archives/"
+                href="//bartdz.com/pl/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://bartdz.com/archives/"
+                href="//bartdz.com/archives/"
                 />
   </url><url>
-    <loc>https://bartdz.com/tags/css/</loc>
+    <loc>//bartdz.com/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://bartdz.com/tags/html/</loc>
+    <loc>//bartdz.com/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://bartdz.com/tags/markdown/</loc>
+    <loc>//bartdz.com/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://bartdz.com/post/markdown-syntax/</loc>
+    <loc>//bartdz.com/post/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://bartdz.com/categories/syntax/</loc>
+    <loc>//bartdz.com/categories/syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://bartdz.com/categories/themes/</loc>
+    <loc>//bartdz.com/categories/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://bartdz.com/series/themes-guide/</loc>
+    <loc>//bartdz.com/series/themes-guide/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://bartdz.com/tags/privacy/</loc>
+    <loc>//bartdz.com/tags/privacy/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://bartdz.com/pl/tags/privacy/"
+                href="//bartdz.com/pl/tags/privacy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://bartdz.com/tags/privacy/"
+                href="//bartdz.com/tags/privacy/"
                 />
   </url><url>
-    <loc>https://bartdz.com/post/rich-content/</loc>
+    <loc>//bartdz.com/post/rich-content/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://bartdz.com/pl/post/rich-content/"
+                href="//bartdz.com/pl/post/rich-content/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://bartdz.com/post/rich-content/"
+                href="//bartdz.com/post/rich-content/"
                 />
   </url><url>
-    <loc>https://bartdz.com/tags/shortcodes/</loc>
+    <loc>//bartdz.com/tags/shortcodes/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://bartdz.com/pl/tags/shortcodes/"
+                href="//bartdz.com/pl/tags/shortcodes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://bartdz.com/tags/shortcodes/"
+                href="//bartdz.com/tags/shortcodes/"
                 />
   </url><url>
-    <loc>https://bartdz.com/post/placeholder-text/</loc>
+    <loc>//bartdz.com/post/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://bartdz.com/tags/text/</loc>
+    <loc>//bartdz.com/tags/text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://bartdz.com/contact/</loc>
+    <loc>//bartdz.com/contact/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://bartdz.com/pl/contact/"
+                href="//bartdz.com/pl/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://bartdz.com/contact/"
+                href="//bartdz.com/contact/"
                 />
   </url><url>
-    <loc>https://bartdz.com/post/math-typesetting/</loc>
+    <loc>//bartdz.com/post/math-typesetting/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://bartdz.com/tags/emoji/</loc>
+    <loc>//bartdz.com/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://bartdz.com/post/emoji-support/</loc>
+    <loc>//bartdz.com/post/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://bartdz.com/post/image-test/</loc>
+    <loc>//bartdz.com/post/image-test/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://bartdz.com/tags/thumbnail/</loc>
+    <loc>//bartdz.com/tags/thumbnail/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://bartdz.com/about/</loc>
+    <loc>//bartdz.com/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://bartdz.com/pl/about/"
+                href="//bartdz.com/pl/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://bartdz.com/about/"
+                href="//bartdz.com/about/"
                 />
   </url><url>
-    <loc>https://bartdz.com/imprint/</loc>
+    <loc>//bartdz.com/imprint/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://bartdz.com/tags/index/</loc>
+    <loc>//bartdz.com/tags/index/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://bartdz.com/pl/tags/index/"
+                href="//bartdz.com/pl/tags/index/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://bartdz.com/tags/index/"
+                href="//bartdz.com/tags/index/"
                 />
   </url>
 </urlset>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Introduction To Ethical Hacking on Mój Blog</title>
-    <link>https://bartdz.com/pl/series/introduction-to-ethical-hacking/</link>
+    <link>//bartdz.com/pl/series/introduction-to-ethical-hacking/</link>
     <description>Recent content in Introduction To Ethical Hacking on Mój Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 07 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://bartdz.com/pl/series/introduction-to-ethical-hacking/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="//bartdz.com/pl/series/introduction-to-ethical-hacking/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Linux For Hackers</title>
-      <link>https://bartdz.com/pl/post/linux_for_hackers/</link>
+      <link>//bartdz.com/pl/post/linux_for_hackers/</link>
       <pubDate>Tue, 07 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://bartdz.com/pl/post/linux_for_hackers/</guid>
+      <guid>//bartdz.com/pl/post/linux_for_hackers/</guid>
       
         <description>&lt;p&gt;Why is Linux good for ethical hackers?&lt;/p&gt;
 &lt;p&gt;The concept of Linux for ethical hackers focuses on the use of the Linux operating system for the sole purpose of ethical hacking. There are a couple of skills that hackers must equip themselves with as they approach hacking using Linux, because a good number of devices that they will be hacking into will be Linux devices and a large percentage of tools in existence today are Linux-based.&lt;/p&gt;</description>
